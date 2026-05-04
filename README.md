@@ -1,1 +1,0 @@
-# founders-investors-scraper
